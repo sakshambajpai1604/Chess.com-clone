@@ -22,7 +22,7 @@ This is a real-time multiplayer chess game built using **Node.js**, **Socket.IO*
 1. Clone the repository:
    ```bash
    git clone https://github.com/sakshambajpai1604/Chess.com-clone.git
-   cd chess-game
+   cd Chess.com-clone
    ```
 2. Install dependancies:
    ```bash
